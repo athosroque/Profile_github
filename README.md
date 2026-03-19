@@ -69,7 +69,6 @@ A full-stack application built with **FastAPI + Vue 3 + Docker**, designed to re
 
 <div align="center">
 
-![Athos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athosroque&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athosroque&layout=compact&theme=default&hide_border=true)
 
