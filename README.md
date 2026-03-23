@@ -33,6 +33,7 @@ I enjoy turning messy operational data into clear insights, and automating repet
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Data & ML**
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9DCFE0?style=flat-square&logo=seaborn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -65,6 +66,16 @@ A full-stack application built with **FastAPI + Vue 3 + Docker**, designed to re
 `Python` `FastAPI` `Vue3` `Docker` `Genesys Cloud API` `OAuth2`
 
 ---
+### 📊 [Análise de Vendas E-commerce](https://github.com/athosroque/Analise-de-Vendas-E-commerce))
+| Análise exploratória profunda para identificação de padrões de consumo, sazonalidade e oportunidades de expansão logística.
+
+Extração de insights estratégicos a partir de dados brutos, transformando o histórico de vendas em diretrizes acionáveis para gestão de estoque e marketing direcionado no eixo Sudeste.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-9DCFE0?style=flat-square&logo=seaborn&logoColor=white)
 
 ## 📊 GitHub Stats
 
