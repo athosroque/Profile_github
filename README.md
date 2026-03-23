@@ -66,10 +66,10 @@ A full-stack application built with **FastAPI + Vue 3 + Docker**, designed to re
 `Python` `FastAPI` `Vue3` `Docker` `Genesys Cloud API` `OAuth2`
 
 ---
-### 📊 [Análise de Vendas E-commerce](https://github.com/athosroque/Analise-de-Vendas-E-commerce))
-| Análise exploratória profunda para identificação de padrões de consumo, sazonalidade e oportunidades de expansão logística.
+### 📊 [E-commerce Sales Analysis](https://github.com/athosroque/Analise-de-Vendas-E-commerce)
+> In-depth exploratory data analysis (EDA) to identify consumer behavior patterns, seasonality, and logistical expansion opportunities.
 
-Extração de insights estratégicos a partir de dados brutos, transformando o histórico de vendas em diretrizes acionáveis para gestão de estoque e marketing direcionado no eixo Sudeste.
+Extracting strategic insights from raw data to transform sales history into actionable guidelines for inventory management and targeted marketing campaigns across the Southeast region.este.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
