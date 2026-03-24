@@ -3,9 +3,9 @@
 
 # Athos Roque
 
-### Data & Automation Engineer · ML · BI · Python
+### Engenheiro de Dados & Automação · ML · BI · Python
 
-*Transitioning from Operations & Troubleshooting into Machine Learning, LLMs and Business Intelligence*
+*Migrando de Operações & Troubleshooting para Machine Learning, LLMs e Business Intelligence*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-athosroque-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athosroque/)
 [![GitHub](https://img.shields.io/badge/GitHub-athosroque-181717?style=flat&logo=github&logoColor=white)](https://github.com/athosroque)
@@ -15,24 +15,24 @@
 
 ---
 
-## 🧠 About me
+## 🧠 Sobre mim
 
-I'm a tech professional based in Brasília-DF with a strong background in **log analysis, troubleshooting, and complex system operations**. Over time I've shifted my focus toward **Machine Learning, LLMs, and Business Intelligence** — combining statistical thinking with automation to build intelligent, scalable solutions.
+Atualmente resido em Brasília-DF, possuo sólida experiência em **análise de logs, troubleshooting e operações de sistemas complexos**. Ao longo do tempo, direcionei meu foco para **Machine Learning, LLMs e Business Intelligence** — combinando pensamento estatístico com automação para construir soluções inteligentes e escaláveis.
 
-I enjoy turning messy operational data into clear insights, and automating repetitive workflows with Python and AI tooling.
+Gosto de transformar dados operacionais bagunçados em insights claros, e de automatizar fluxos repetitivos com Python e ferramentas de IA.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
-**Languages & Frameworks**
+**Linguagens & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Data & ML**
+**Dados & ML**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9DCFE0?style=flat-square&logo=seaborn&logoColor=white)
@@ -41,14 +41,14 @@ I enjoy turning messy operational data into clear insights, and automating repet
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Infrastructure & DevOps**
+**Infraestrutura & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-**Platforms & APIs**
+**Plataformas & APIs**
 
 ![Genesys Cloud](https://img.shields.io/badge/Genesys_Cloud-FF4F1F?style=flat&logo=genesys&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-6DB33F?style=flat)
@@ -56,20 +56,20 @@ I enjoy turning messy operational data into clear insights, and automating repet
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
 ### ⚡ [Genesys Manager](https://github.com/athosroque/genesys-manager)
-> Modern dashboard for bulk user, queue and role management on Genesys Cloud.
+> Dashboard moderno para gerenciamento em massa de usuários, filas e papéis no Genesys Cloud.
 
-A full-stack application built with **FastAPI + Vue 3 + Docker**, designed to replace error-prone manual operations with an intuitive, secure interface. Supports mass migration of users between divisions, roles, and groups in a single click.
+Uma aplicação full-stack construída com **FastAPI + Vue 3 + Docker**, projetada para substituir operações manuais propensas a erros por uma interface intuitiva e segura. Suporta migração em massa de usuários entre divisões, papéis e grupos com um único clique.
 
 `Python` `FastAPI` `Vue3` `Docker` `Genesys Cloud API` `OAuth2`
 
 ---
-### 📊 [E-commerce Sales Analysis](https://github.com/athosroque/Analise-de-Vendas-E-commerce)
-> In-depth exploratory data analysis (EDA) to identify consumer behavior patterns, seasonality, and logistical expansion opportunities.
+### 📊 [Análise de Vendas E-commerce](https://github.com/athosroque/Analise-de-Vendas-E-commerce)
+> Análise exploratória de dados (EDA) aprofundada para identificar padrões de comportamento do consumidor, sazonalidade e oportunidades de expansão logística.
 
-Extracting strategic insights from raw data to transform sales history into actionable guidelines for inventory management and targeted marketing campaigns across the Southeast region.este.
+Extração de insights estratégicos a partir de dados brutos para transformar o histórico de vendas em diretrizes acionáveis para gestão de estoque e campanhas de marketing direcionadas na região Sudeste.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -77,7 +77,7 @@ Extracting strategic insights from raw data to transform sales history into acti
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9DCFE0?style=flat-square&logo=seaborn&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Extracting strategic insights from raw data to transform sales history into acti
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/athosroque/)
 - 🐙 [GitHub](https://github.com/athosroque)
@@ -97,5 +97,5 @@ Extracting strategic insights from raw data to transform sales history into acti
 ---
 
 <div align="center">
-  <sub>Always learning · Always automating · Always improving</sub>
+  <sub>Aprendendo · Automatizando · Evoluindo</sub>
 </div>
