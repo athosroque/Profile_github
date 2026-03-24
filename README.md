@@ -63,7 +63,13 @@ Gosto de transformar dados operacionais bagunçados em insights claros, e de aut
 
 Uma aplicação full-stack construída com **FastAPI + Vue 3 + Docker**, projetada para substituir operações manuais propensas a erros por uma interface intuitiva e segura. Suporta migração em massa de usuários entre divisões, papéis e grupos com um único clique.
 
-`Python` `FastAPI` `Vue3` `Docker` `Genesys Cloud API` `OAuth2`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Genesys Cloud API](https://img.shields.io/badge/Genesys_Cloud_API-FF4F1F?style=flat-square&logo=genesys&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
 
 ---
 ### 📊 [Análise de Vendas E-commerce](https://github.com/athosroque/Analise-de-Vendas-E-commerce)
