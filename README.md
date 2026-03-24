@@ -17,9 +17,7 @@
 
 ## 🧠 Sobre mim
 
-Atualmente resido em Brasília-DF, possuo sólida experiência em **análise de logs, troubleshooting e operações de sistemas complexos**. Ao longo do tempo, direcionei meu foco para **Machine Learning, LLMs e Business Intelligence** — combinando pensamento estatístico com automação para construir soluções inteligentes e escaláveis.
-
-Gosto de transformar dados operacionais bagunçados em insights claros, e de automatizar fluxos repetitivos com Python e ferramentas de IA.
+Atualmente resido em Brasília-DF, tenho 27 anos e cresci em crixás-goiás, sou formado em redes de computadores, com pós graduações na áreas de: arquitetura, projetos em cloud e ciência de dados além de especializações modulares em python, Business Intelligence (BI) e Inteligência Artificial (IA), transforma dados brutos em insights estratégicos preditivos, automatizando a análise e agilizando decisões.
 
 ---
 
