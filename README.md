@@ -56,7 +56,7 @@ Atualmente resido em Brasília-DF, tenho 27 anos e cresci em crixás-goiás, sou
 
 ## 🚀 Projetos em Destaque
 
-### <img src="https://raw.githubusercontent.com/athosroque/genesys-manager-v2-pilot/main/assets/icons/genesys-icon.svg" width="22" height="22" valign="bottom"> [Genesys Manager](https://github.com/athosroque/genesys-manager-v2-pilot)
+### <img src="https://raw.githubusercontent.com/athosroque/genesys-manager-v2-pilot/main/assets/icons/genesys-icon.svg" width="22" height="22" valign="bottom"> [Genesys Manager api](https://github.com/athosroque/genesys-manager-v2-pilot)
 > Dashboard moderno para gerenciamento em massa de usuários, filas e papéis no Genesys Cloud.
 
 Uma aplicação full-stack construída com **FastAPI + Vue 3 + Docker**, projetada para substituir operações manuais propensas a erros por uma interface intuitiva e segura. Suporta migração em massa de usuários entre divisões, papéis e grupos com um único clique.
