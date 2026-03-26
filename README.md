@@ -83,12 +83,9 @@ Extração de insights estratégicos a partir de dados brutos para transformar o
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athosroque&layout=compact&theme=default&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athosroque&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
